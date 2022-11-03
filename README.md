@@ -19,9 +19,6 @@
  `Otherwise the theme customize option does not work
 The changes I made are not the cause of the errors. They were there when I started working on it.`
 
-[-] Owners page
-```I have multiple questions on this part so I will either compile a list of questions by the end of the day or I can meet with you tomorrow. Let me know which one works for you ```
-
 ## ConnectSCS
 [x] removed title along with the white area
 [x] removed the white area area above and below the about page
