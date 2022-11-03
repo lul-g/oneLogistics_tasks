@@ -1,9 +1,7 @@
 ## Common
----
 [x] name page without using title
 [-] remove title component
 ## OLN
----
 [x] removed the whole footer that contains 'powered by' code:
 	```
 	<footer class='container_wrap socket_color' id='socket' <?php avia_markup_helper( array( 'context' => 'footer' ) ); ?>>
@@ -25,7 +23,6 @@ The changes I made are not the cause of the errors. They were there when I start
 ```I have multiple questions on this part so I will either compile a list of questions by the end of the day or I can meet with you tomorrow. Let me know which one works for you ```
 
 ## ConnectSCS
----
 [x] removed title along with the white area
 [x] removed the white area area above and below the about page
 ```I can put the white areas back if needed```
